@@ -1,4 +1,4 @@
-Django == 2.2.0
+Django == 2.2.10
 djangorestframework==3.10.0
 
 flake8 == 3.6.0
