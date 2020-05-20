@@ -19,7 +19,7 @@ services:
       - db
 
   db:
-    image: postrges:10-alpine
+    image: postgres:10-alpine
     environment:
       - POSTGRES_DB=app
       - POSTGRES_USER=postgres
